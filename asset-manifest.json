@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/braulioaguilardev.github.io/static/css/main.52f04f93.css",
+    "main.js": "/braulioaguilardev.github.io/static/js/main.2387acd7.js",
+    "index.html": "/braulioaguilardev.github.io/index.html",
+    "main.52f04f93.css.map": "/braulioaguilardev.github.io/static/css/main.52f04f93.css.map",
+    "main.2387acd7.js.map": "/braulioaguilardev.github.io/static/js/main.2387acd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52f04f93.css",
+    "static/js/main.2387acd7.js"
+  ]
+}
